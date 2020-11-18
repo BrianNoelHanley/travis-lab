@@ -1,3 +1,2 @@
 # Travis_Lab
-
-https://travis-ci.org/BrianNoelHanley/travis-lab.svg?branch=main
+[![Build Status](https://travis-ci.org/BrianNoelHanley/travis-lab.svg?branch=main)](https://travis-ci.org/BrianNoelHanley/travis-lab)
